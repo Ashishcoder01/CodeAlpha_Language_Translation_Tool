@@ -1,4 +1,3 @@
-@"
 # LinguaFlow – Language Translation Tool
 
 LinguaFlow is a modern web-based language translation application developed as part of the CodeAlpha AI Internship.
